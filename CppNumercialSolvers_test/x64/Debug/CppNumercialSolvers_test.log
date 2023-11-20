@@ -1,0 +1,10 @@
+﻿  test2.cpp
+D:\vcpkg-2023.10.19\installed\x64-windows\include\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vcpkg-2023.10.19\installed\x64-windows\include\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vcpkg-2023.10.19\installed\x64-windows\include\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\cppoptlib\problem.h(27,9): warning C4068: 未知的杂注“GCC”
+D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\cppoptlib\problem.h(28,9): warning C4068: 未知的杂注“GCC”
+D:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\cppoptlib\problem.h(36,9): warning C4068: 未知的杂注“GCC”
+  test5.cpp
+  正在生成代码...
+  CppNumercialSolvers_test.vcxproj -> D:\Documents\test\CppNumercialSolvers_test\x64\Debug\CppNumercialSolvers_test.exe
